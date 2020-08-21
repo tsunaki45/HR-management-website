@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="PS10217_ASM">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/i18n-res"/>
+        <property name="context-root" value="PS10217_ASM"/>
+        <property name="java-output-path" value="/PS10217_ASM/build/classes"/>
+    </wb-module>
+</project-modules>

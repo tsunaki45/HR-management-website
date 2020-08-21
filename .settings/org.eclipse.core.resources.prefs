@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/admin-layout.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/admin/common/header.jsp=UTF-8
+encoding//i18n-res/depart_vi.properties=UTF-8
+encoding//i18n-res/global_vi.properties=UTF-8
+encoding//i18n-res/record_vi.properties=UTF-8
+encoding//i18n-res/staff_vi.properties=UTF-8
+encoding//i18n-res/user_vi.properties=UTF-8
+encoding//src/poly/admin/controller/MailController.java=UTF-8
